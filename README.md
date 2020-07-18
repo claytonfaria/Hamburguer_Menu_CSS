@@ -1,2 +1,2 @@
 # Hamburguer Menu Template CSS
-Hamburger Menu using CSS only
+Hamburger Menu using overlays created CSS only
